@@ -5,7 +5,10 @@
 
 ### Collaboration & Contact
 - 🤝🏿 I’m looking to collaborate on web development projects and cloud-based solutions
-- 📫 Reach me via: odiwuorvictor17@gmail.com
+##### 📫 Connect with Me 
+- [Gmail](odiwuorvictor17@gmail.com)
+- [Facebook](https://www.facebook.com/profile.php?id=100092213725848)
+- [Insta](https://www.instagram.com/vi.c.ta/)
 
 ### Personal 🧩
 - 😄 Pronouns: He/Him
