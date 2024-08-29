@@ -6,8 +6,8 @@
 ### Collaboration & Contact
 - 🤝🏿 I’m looking to collaborate on web development projects and cloud-based solutions
 ##### 📫 Connect with Me 
-- [Gmail](odiwuorvictor17@gmail.com)
-- [Facebook](https://www.facebook.com/profile.php?id=100092213725848)
+- odiwuorvictor17@gmail.com
+- [𝕏](https://x.com/vi_c_ta)
 - [Insta](https://www.instagram.com/vi.c.ta/)
 
 ### Personal 🧩
