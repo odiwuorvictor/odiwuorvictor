@@ -1,3 +1,4 @@
+
 # Hi there!👋🏿
 ### About Me
 - 👀 I’m interested in web development and new technologies.
@@ -20,13 +21,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odiwuorvictor&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odiwuorvictor&layout=compact&theme=dark)
-
-
-
-
-
-
-
-
-
-
