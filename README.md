@@ -1,7 +1,7 @@
-
-# Hi there!👋🏿
+# Hi there👋🏿, welcome to my profile..
 ### About Me
-- 👀 I’m interested in web development and new technologies.
+- 👀 I’m interested in web development and new technologies.!
+
 - 🌱 I’m currently learning Advanced data analysis and sharpening skills in web development.
 
 ### Collaboration & Contact
@@ -15,9 +15,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new gadgets and technologies.
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)
+### 📈 My Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)    
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odiwuorvictor&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=dark)
+                                               
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odiwuorvictor&layout=compact&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odiwuorvictor&layout=compact&theme=dark)
+### 💪🏿 Thank You for peeking!
+- Many thanks for stopping by my GitHub profile! Your interest is truly appreciated.🌟
+-  Let's build something amazing together! 🚀
