@@ -20,8 +20,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odiwuorvictor&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=dark)
                                                
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odiwuorvictor&layout=compact&theme=dark)
-
+  ### 🚀
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=odiwuorvictor&layout=compact&theme=radical)
 
 ### 💪🏿 Thank You for peeking!
 - Many thanks for stopping by my GitHub profile! Your interest is truly appreciated.🌟
