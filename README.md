@@ -18,6 +18,6 @@
 ### 📈 My Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)    
                                                
-### 💪🏿 Thank You for peeking!
+### 💪🏿 Thank You for sticking around!
 - Many thanks for stopping by my GitHub profile! Your interest is truly appreciated.🌟
 -  Let's build something amazing together! 🚀
