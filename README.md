@@ -7,7 +7,7 @@
 ### Collaboration & Contact
 - 🤝🏿 I’m looking to collaborate on web development projects and cloud-based solutions
 ##### 📫 Connect with Me 
-- odiwuorvictor17@gmail.com
+- odiwuor.victor@outlook.com
 - [𝕏](https://x.com/vi_c_ta)
 - [Insta](https://www.instagram.com/vi.c.ta/)
 
