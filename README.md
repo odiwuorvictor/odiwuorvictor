@@ -10,6 +10,7 @@
 - odiwuor.victor@outlook.com
 - [𝕏](https://x.com/vi_c_ta)
 - [Insta](https://www.instagram.com/vi.c.ta/)
+- [LinkedIn](in/odiwuor-victor-80a8082b6)
 
 ### Personal 🧩
 - 😄 Pronouns: He/Him
