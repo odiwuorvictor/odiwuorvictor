@@ -1,11 +1,11 @@
-# Hi there👋🏿, welcome to my new github profile..
+# Hi there👋🏿, welcome to my github profile..
 ### About Me
-- 👀 I’m interested in web development and new technologies.!
+- 👀 I’m interested in exploring tech, breaking things and occasionally asking "...how does this even work?".!
 
 - 🌱 I’m currently learning Advanced data analysis and sharpening skills in web development.
 
 ### Collaboration & Contact
-- 🤝🏿 I’m looking to collaborate on web development projects and cloud-based solutions
+- 🤝🏿 Collab? Link me up already!
 ##### 📫 Connect with Me 
 - odiwuor.victor@outlook.com
 - [𝕏](https://x.com/vi_c_ta)
