@@ -1,8 +1,6 @@
 # Hi there👋🏿, welcome to my github profile..
 ### About Me
-- 👀 I’m interested in exploring tech, breaking things and occasionally asking "...how does this even work?".!
-
-- 🌱 I’m currently learning Advanced data analysis and sharpening skills in web development.
+- 👀 I’m interested in exploring tech, breaking things and occasionally asking "...how does this even work?"!
 
 ### Collaboration & Contact
 - 🤝🏿 Collab? Link me up already!
