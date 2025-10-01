@@ -10,13 +10,9 @@
 - [Insta](https://www.instagram.com/vi.c.ta/)
 - [LinkedIn](in/odiwuor-victor-80a8082b6)
 
-### Personal 🧩
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new gadgets and technologies.
-
 ### 📈 My Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)    
                                                
 ### 💪🏿 Thank You for sticking around!
-- Many thanks for stopping by my GitHub profile! Your interest is truly appreciated.🌟
--  Let's build something amazing together! 🚀
+- Many thanks for stopping by my profile! Your interest is truly appreciated.🌟
+-  Let's build something amazing together? 🚀
