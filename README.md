@@ -1,4 +1,4 @@
-# Hi there👋🏿, welcome to my github profile..
+# Hi there👋🏿 
 ### About Me
 - 👀 I’m interested in exploring tech, breaking things and occasionally asking "...how does this even work?"!
 
