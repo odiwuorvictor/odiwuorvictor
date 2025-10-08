@@ -3,7 +3,7 @@
 - 👀 I’m interested in exploring tech, breaking things and occasionally asking "...how does this even work?"!
 
 ### Collaboration & Contact
-- 🤝🏿 Collab? Link me up already!
+- 🤝🏿 Collab?
 ##### 📫 Connect with Me 
 - odiwuor.victor@outlook.com
 - [𝕏](https://x.com/vi_c_ta)
@@ -14,5 +14,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)    
                                                
 ### 💪🏿 Thank You for sticking around!
-- Many thanks for stopping by my profile! Your interest is truly appreciated.🌟
--  Let's build something amazing together? 🚀
+- Many thanks for stopping by!🌟
