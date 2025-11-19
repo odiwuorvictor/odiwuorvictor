@@ -8,7 +8,7 @@
 - [Insta](https://www.instagram.com/vi.c.ta/)
 - [LinkedIn](in/odiwuor-victor-80a8082b6)
 
-### 📈 My Stats
+### My Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)    
                                                
-### 💪🏿 Thank You for sticking around!
+###  Thank You for sticking around!💪🏿
