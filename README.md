@@ -1,6 +1,6 @@
 # Hi there👋🏿 
 ### About Me
-- 👀 I’m interested in exploring tech, breaking things and occasionally asking "...how does this even work?"!
+- 👀 Interested in exploring tech, breaking things and occasionally asking "...how does this even work?"!
 
 ### Collaboration & Contact
 - 🤝🏿 Collab?
@@ -13,5 +13,4 @@
 ### 📈 My Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)    
                                                
-### 💪🏿 Thank You for sticking around!
-- Many thanks for stopping by!🌟
+##### 💪🏿 Thank You for sticking around!
