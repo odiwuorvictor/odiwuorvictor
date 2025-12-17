@@ -8,7 +8,6 @@
 - [Insta](https://www.instagram.com/vi.c.ta/)
 
 ### My Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)    
-![Stats](https://github-readme-stats.vercel.app/api?username=odiwuorvictor&show_icons=true&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=odiwuorvictor&theme=dark)
                                                
 ###  Thank You for sticking around! 💪🏿
