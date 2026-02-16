@@ -2,7 +2,7 @@
 
 Computer Science.
 
-Interested in systems — how they behave under load,  
+Interested in systems - how they behave under load,  
 how they fail, and how they recover.
  
 Abstraction simplifies the surface.
@@ -11,8 +11,8 @@ Complexity remains underneath.
 This space contains selected public work,  
 experiments, pressure tests, and evolving ideas.
 
-Contact 
+Contact: 
 odiwuor.victor@outlook.com
 
 ## Activity
-Experimenting with constraints. Exploring trade-offs.
+Experimenting with constraints. Exploring trade-offs. Refining abstractions.
