@@ -9,7 +9,7 @@ This space contains selected public work,
 experiments, pressure tests, and evolving ideas.
 
 Contact: 
-odiwuor.victor@outlook.com
+odiwuor.vic@outlook.com
 
 ## Activity
 Experimenting with constraints. Exploring trade-offs. Refining abstractions.
