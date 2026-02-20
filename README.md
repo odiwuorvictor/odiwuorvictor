@@ -1,6 +1,6 @@
 # Odiwuor Victor 
 
-Computer Science.
+Computer Science
 
 Interested in systems - how they behave under load,  
 how they fail, and how they recover.
@@ -12,4 +12,4 @@ Contact:
 odiwuor.victor@outlook.com
 
 ## Activity
-Experimenting with constraints. Exploring trade-offs. Refining abstractions.
+Experimenting with constraints. Exploring trade-offs & Refining abstractions.
