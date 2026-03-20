@@ -1,4 +1,4 @@
-# Odiwuor Victor 
+## Odiwuor Victor 
 
 Computer Science
 
@@ -11,5 +11,5 @@ experiments, pressure tests, and evolving ideas.
 Contact: 
 odiwuor.victor@outlook.com
 
-## Activity
+### Activity
 Experimenting with constraints. Exploring trade-offs & Refining abstractions.
