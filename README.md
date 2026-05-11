@@ -1,4 +1,4 @@
-# Odiwuor Victor 
+## Odiwuor Victor 
 
 Computer Science
 
@@ -12,4 +12,4 @@ Contact:
 odiwuor.victor@outlook.com
 
 ## Activity
-Experimenting with constraints. Exploring trade-offs & Refining abstractions.
+Experimenting with constraints, exploring trade-offs & refining abstractions.
