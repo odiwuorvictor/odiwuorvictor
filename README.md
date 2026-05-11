@@ -11,5 +11,5 @@ experiments, pressure tests, and evolving ideas.
 Contact: 
 odiwuor.victor@outlook.com
 
-### Activity
-Experimenting with constraints. Exploring trade-offs & Refining abstractions.
+## Activity
+Experimenting with constraints, exploring trade-offs & refining abstractions.
